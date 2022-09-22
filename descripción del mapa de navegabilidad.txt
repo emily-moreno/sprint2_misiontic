@@ -1,0 +1,4 @@
+En el siguiente diagrama se evidencia los procesos que ejecutan cada una de las partes  
+del proyecto como lo son el superadministrador, el administrador y el usuario final.
+Se puede observar cada uno de los procesos que pueden o deben  hacer para cumplir 
+con su respectivo objetivo.
